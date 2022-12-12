@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamnidarmuharamsah&label=Profile%20views&color=0e75b6&style=flat" alt="lamnidarmuharamsah" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Data Analyst**
+- 🌱 I’m currently learning **Machine Learning and Data Analysis**
 
 - 💬 Ask me about **Sql Database, Data Cleaning and Data Analysis**
 
