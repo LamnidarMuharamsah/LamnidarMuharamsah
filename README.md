@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Sql Database, Data Cleaning and Data Analysis**
 
-- 📫 How to reach me **Lamnidar02@gmail.com**
+- 📫 you can reach me on my email **Lamnidar02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
