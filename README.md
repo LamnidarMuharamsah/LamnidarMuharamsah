@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamnidarmuharamsah&label=Profile%20views&color=0e75b6&style=flat" alt="lamnidarmuharamsah" /> </p>
 
-- 🧑‍💻 I’m currently learning **Machine Learning and Data Analysis**
+- I’m currently learning **Machine Learning and Data Analysis**
 
-- 💬 Ask me about **Sql Database, Data Cleaning and Data Analysis**
+- Ask me about **Sql Database, Data Cleaning and Data Analysis**
 
-- 📫 you can reach me on my email **Lamnidar02@gmail.com**
+- you can reach me on my email **Lamnidar02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
