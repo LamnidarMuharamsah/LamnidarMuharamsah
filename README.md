@@ -7,7 +7,7 @@
 <p align="left">
 - I’m currently learning **Machine Learning and Data Analysis**
 
-- Ask me about **Sql Database, Data Cleaning and Data Analysis**
+- Ask me about **SQL Database, Data Analysis and Business Intelligence**
 
 - you can reach me on my email **Lamnidar02@gmail.com**
 </p>
