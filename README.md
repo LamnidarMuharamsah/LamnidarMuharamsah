@@ -10,7 +10,7 @@
 
 - Ask me about **SQL Database, Data Analysis and Business Intelligence**
 
-- you can reach me on my email **Lamnidar02@gmail.com**
+- You can reach me on my e-mail **Lamnidar02@gmail.com**
 </p>
 
 <h4 align="left">Connect with me:</h4>
