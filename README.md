@@ -5,7 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamnidarmuharamsah&label=Profile%20views&color=0e75b6&style=flat" alt="lamnidarmuharamsah" /> </p>
 
 <p align="left">
-- I’m currently learning **Machine Learning and Data Analysis**
+  
+- I’m currently learning **Data Analysis and Machine Learning**
 
 - Ask me about **SQL Database, Data Analysis and Business Intelligence**
 
