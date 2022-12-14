@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nidar</h1>
 <h3 align="center">A passionate Data Analyst | Business Intelligence from Indonesia</h3>
-<img align="right" alt="coding" widht="300" height="300" src="https://www.caxsol.com/assets/img/data-analysis.gif">
+
 <h4 align="right">Connect with me:</h4>
 <p align="right">
 <a href="https://linkedin.com/in/lamnidar-muharamsah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lamnidar-muharamsah" height="20" width="30" /></a> <a href="https://instagram.com/nidar_muharamsah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nidar_muharamsah" height="20" width="30" /></a>
+<img align="right" alt="coding" widht="300" height="300" src="https://www.caxsol.com/assets/img/data-analysis.gif">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamnidarmuharamsah&label=Profile%20views&color=0e75b6&style=flat" alt="lamnidarmuharamsah" /> </p>
 
