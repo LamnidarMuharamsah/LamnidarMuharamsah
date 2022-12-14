@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nidar</h1>
-<h3 align="center">A passionate Data Analyst | Business Intelligence from Indonesia</h3>
+<h4 align="center">A passionate Data Analyst | Business Intelligence from Indonesia</h3>
 <img align="right" alt="coding" widht="300" height="300" src="https://www.caxsol.com/assets/img/data-analysis.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamnidarmuharamsah&label=Profile%20views&color=0e75b6&style=flat" alt="lamnidarmuharamsah" /> </p>
